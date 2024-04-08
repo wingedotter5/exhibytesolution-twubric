@@ -1,8 +1,6 @@
-# React + Vite
+# Twubric
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+### Links
 
-Currently, two official plugins are available:
-
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+- Solution URL: [GitHub](https://github.com/wingedotter5/exhibytesolution-twubric)
+- Live Site URL: [GitHub Pages](https://wingedotter5.github.io/exhibytesolution-twubric/)
